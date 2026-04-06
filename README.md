@@ -1,2 +1,1 @@
-minha primeira versão 
-porcaria
+minha primeira versão
